@@ -1,0 +1,26 @@
+
+
+div .nav{
+    display:flex;
+    justify-content: center;
+    background-color: black;
+    font-family: 'Genos',sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+div .nav a{
+    color: yellowgreen;
+
+}
+
+ul {
+    padding-inline-start: 0px;
+}
+.nav-item{
+    padding:10px;
+}
+
+li{
+    list-style-type: none;
+}

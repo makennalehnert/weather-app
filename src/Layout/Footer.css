@@ -1,0 +1,10 @@
+
+div .footer{
+    font-family: 'Genos', sans-serif;
+    color:yellowgreen;
+    background-color: black;
+    padding-top:10px;
+    padding-bottom:20px;
+    display: flex;
+    justify-content: center;
+}
